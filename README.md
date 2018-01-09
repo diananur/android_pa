@@ -11,4 +11,4 @@ No.Absen : 15
 Output program : 
 
 <br>
-![alt text](https://github.com/diananur/android_pa/blob/master/a.PNG)<br>
+![alt text](https://github.com/diananur/android_pa/blob/master/a.png)<br>
